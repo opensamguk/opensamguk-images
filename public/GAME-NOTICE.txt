@@ -1,0 +1,149 @@
+BuildKit external build-only image
+Referenced by: tools/load/ci.ts (manual isolated load workflows)
+Image: moby/buildkit:v0.34.1@sha256:99368f3e46177c6405b9740e4461d91cee004128daeecca78d4ceac50ec1da5c
+Release and source: https://github.com/moby/buildkit/releases/tag/v0.34.1
+License: Apache-2.0, https://github.com/moby/buildkit/blob/v0.34.1/LICENSE
+The external image retains its upstream component licenses and notices.
+No BuildKit binary or third-party image layers are vendored in this repository.
+
+
+Caddy external runtime image
+Referenced by: deploy/compose.yml
+Image: caddy:2.11.7-alpine@sha256:eb4d35b7452d1ab6171fbdbe8d9275b2301dad6dad92115d91e19fb9b24d510f
+Source: https://github.com/caddyserver/caddy/tree/v2.11.7
+License: Apache-2.0, https://github.com/caddyserver/caddy/blob/v2.11.7/LICENSE
+Official image source: https://github.com/caddyserver/caddy-docker/tree/master/2.11/alpine
+The external image retains its upstream component licenses and notices.
+No Caddy binary or third-party image layers are vendored in this repository.
+
+
+OpenSamguk v1 selected rule adaptations
+
+Source: https://github.com/peppone-choi/opensamguk-v1
+Revision: bc053629710711d4c5dfa50683bae78f4baeca95
+Files: packages/rules/src/campaign/retinue.ts and its corresponding tests.
+Adapted from RetinueHierarchy.kt, RenownRules.kt, DeploymentRules.kt and their test scenarios. No v1 map artwork or geometry is included.
+
+MIT License
+
+Copyright (c) 2026 빼뽀네 (peppone-choi) and OpenSamguk contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+Natural Earth geographic basemap
+Source: https://www.naturalearthdata.com/ and nvkelso/natural-earth-vector v5.1.2
+Terms: https://www.naturalearthdata.com/about/terms-of-use/
+License: Public domain. Made with Natural Earth.
+Regional GIS derivative: apps/web/src/mapEditor/geodata/natural-earth.json
+Source file URLs and SHA-256 hashes are embedded in that derivative.
+Modern city points are review anchors; they do not establish historical city-site coordinates.
+
+
+Reused OpenSamguk pixel site icons
+Repository: https://github.com/peppone-choi/opensamguk-images
+Revision: 46faca52ac6bf0db67b3350400e3b92847036af2
+Assets: apps/web/src/mapEditor/icons/*.png (unchanged 32px exports).
+Original paths and SHA-256: apps/web/src/mapEditor/icons/sources.json
+
+License evidence at the pinned revision:
+- README.md, License section, includes the repository's own assets/ and web/ work.
+- .license-boundaries.json classifies assets/ and web/ as "mit".
+- ASSET-EXPORTS.md identifies web/{game,gateway}/public/city/ as self-authored exports.
+- THIRD-PARTY-NOTICES.md excludes portraits/ and waryong/; neither is copied here.
+The upstream LICENSE scope introduction predates those own-work paths. The
+README and authoritative boundary manifest record their explicit MIT scope.
+Evidence URLs:
+https://github.com/peppone-choi/opensamguk-images/blob/46faca52ac6bf0db67b3350400e3b92847036af2/README.md
+https://github.com/peppone-choi/opensamguk-images/blob/46faca52ac6bf0db67b3350400e3b92847036af2/.license-boundaries.json
+https://github.com/peppone-choi/opensamguk-images/blob/46faca52ac6bf0db67b3350400e3b92847036af2/ASSET-EXPORTS.md
+
+The following MIT notice applies to these four self-authored icon exports.
+
+MIT License
+
+Copyright (c) 2026 peppone-choi
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+OpenSamguk title fonts (subset of DOSMyungjo and DOSIyagiBoldface)
+
+Source: https://github.com/hurss/fonts
+Revision: 3fc1181c6b4af095206068188c3ea966d6738add
+Files: apps/web/src/fonts/title-myungjo.woff, apps/web/src/fonts/title-iyagi.woff
+Subset to ASCII, KS X 1001 Hangul and a few Hanja by tools/fonts/build-title-fonts.py and renamed
+"OpenSamguk Myungjo" and "OpenSamguk Iyagi", because the license reserves the original font names
+for unmodified fonts. Provenance and hashes: apps/web/src/fonts/sources.json.
+
+MIT License
+
+Copyright (c) 2016-2022 Damheo Lee (이담허) (leedheo@gmail.com)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+DotGothic16 font
+
+Package: @fontsource/dotgothic16 5.3.1
+Font: DotGothic16 by Fontworks Inc.
+License: SIL Open Font License 1.1, https://openfontlicense.org
+
+
+INT-20 generated pixel art and pixel basemap
+
+Files: apps/web/src/art/** and apps/web/src/main/pixel-basemap.png
+The art was generated for this project with Codex built-in image generation from text prompts only
+(no reference or input images) and reduced by tools/pixel-assets/build.py. The pass wall markers
+(apps/web/src/art/map/pass-wall*.png) are crops of the generated pass marker made by
+tools/pixel-assets/build-pass-walls.py. Prompts and source hashes:
+apps/web/src/art/sources.json. The basemap is rendered from Natural Earth (public domain) by
+tools/map-data/build-pixel-basemap.py; inputs and hashes: apps/web/src/main/pixel-basemap.json.

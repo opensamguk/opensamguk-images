@@ -18,6 +18,8 @@
 
 ## 라이선스
 
+`public/`에는 게임 화면의 생성 그림·Natural Earth 지도·기본 실루엣을 별도로 보관한다. 원본 경로·바이트 해시·공개 승인 여부는 [public/manifest.json](public/manifest.json), 출처는 [public/NOTICE.md](public/NOTICE.md)를 따른다. 두 게임 버전은 전체 커밋 SHA로 고정한 같은 파일을 읽는다. 아래 원작 초상 설명은 `portraits/`에만 적용한다.
+
 **이 저장소의 그림은 오픈 라이선스가 아니다.** 「삼국지 14」(Koei Tecmo Games Co., Ltd.) 인물 일러스트에서 가공한 것이며,
 이 저장소는 저작권을 주장하지 않고 누구에게도 사용·복제·재배포 권리를 주지 않는다.
 저장소 소유자(peppone-choi)는 자기 게임에서 쓰는 책임을 직접 진다 (2026-09-06 결정).

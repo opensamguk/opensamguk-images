@@ -750,6 +750,13 @@
       "sha256": "052abd2acf1186a7b9c39f0a24dcf1ef0b5dffa367b19c28368e4747d243ded7",
       "bytes": 561,
       "public": true
+    },
+    {
+      "source": "resources/map-drafts/san10/natural-earth-relief.webp",
+      "path": "public/map-drafts/san10/natural-earth-relief.webp",
+      "sha256": "4f7df0e27c701fbfbf8e020200afdde0c7d3538024007f6d1ceda0596f43612e",
+      "bytes": 968124,
+      "public": false
     }
   ]
 }

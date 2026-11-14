@@ -1,0 +1,1506 @@
+[
+  {
+    "file": "frame-window.png",
+    "kind": "nine-slice",
+    "size": [
+      512,
+      512
+    ],
+    "states": 1,
+    "slice": [
+      64,
+      64,
+      64,
+      64
+    ],
+    "note": "Dialog window",
+    "cell": [
+      512,
+      512
+    ],
+    "content": [
+      [
+        0,
+        0,
+        512,
+        512
+      ]
+    ]
+  },
+  {
+    "file": "frame-list-general.png",
+    "kind": "nine-slice",
+    "size": [
+      512,
+      512
+    ],
+    "states": 1,
+    "slice": [
+      56,
+      56,
+      56,
+      56
+    ],
+    "note": "Square empty red lacquer general roster panel, aged brass narrow border, geometric corner plates only within outer 9%, plain center.",
+    "cell": [
+      512,
+      512
+    ],
+    "content": [
+      [
+        0,
+        0,
+        512,
+        512
+      ]
+    ]
+  },
+  {
+    "file": "frame-list-city.png",
+    "kind": "nine-slice",
+    "size": [
+      512,
+      512
+    ],
+    "states": 1,
+    "slice": [
+      56,
+      56,
+      56,
+      56
+    ],
+    "note": "Square empty deep forest green lacquer city roster panel, aged brass narrow border, geometric corner plates within outer 9%, plain center.",
+    "cell": [
+      512,
+      512
+    ],
+    "content": [
+      [
+        0,
+        0,
+        512,
+        511
+      ]
+    ]
+  },
+  {
+    "file": "frame-list-nation.png",
+    "kind": "nine-slice",
+    "size": [
+      512,
+      512
+    ],
+    "states": 1,
+    "slice": [
+      56,
+      56,
+      56,
+      56
+    ],
+    "note": "Square empty plum-purple lacquer nation roster panel, aged brass narrow border, geometric corner plates within outer 9%, plain center.",
+    "cell": [
+      512,
+      512
+    ],
+    "content": [
+      [
+        0,
+        0,
+        512,
+        512
+      ]
+    ]
+  },
+  {
+    "file": "frame-list-paper.png",
+    "kind": "nine-slice",
+    "size": [
+      512,
+      512
+    ],
+    "states": 1,
+    "slice": [
+      48,
+      48,
+      48,
+      48
+    ],
+    "note": "Square empty warm hanji paper roster panel with straight dark wood rim, all fittings within outer 8%, completely plain center.",
+    "cell": [
+      512,
+      512
+    ],
+    "content": [
+      [
+        0,
+        0,
+        512,
+        512
+      ]
+    ]
+  },
+  {
+    "file": "frame-card.png",
+    "kind": "nine-slice",
+    "size": [
+      512,
+      512
+    ],
+    "states": 1,
+    "slice": [
+      32,
+      32,
+      32,
+      32
+    ],
+    "note": "Square empty warm hanji information card, thin aged brass square rim, subtle corner joins in outer 5%, plain center.",
+    "cell": [
+      512,
+      512
+    ],
+    "content": [
+      [
+        0,
+        0,
+        512,
+        512
+      ]
+    ]
+  },
+  {
+    "file": "frame-notice.png",
+    "kind": "nine-slice",
+    "size": [
+      512,
+      512
+    ],
+    "states": 1,
+    "slice": [
+      40,
+      40,
+      40,
+      40
+    ],
+    "note": "Square empty warm hanji notice panel, red lacquer square border, small brass corner pins confined outer 7%, plain center.",
+    "cell": [
+      512,
+      512
+    ],
+    "content": [
+      [
+        0,
+        0,
+        512,
+        512
+      ]
+    ]
+  },
+  {
+    "file": "frame-speech.png",
+    "kind": "nine-slice",
+    "size": [
+      512,
+      512
+    ],
+    "states": 1,
+    "slice": [
+      64,
+      64,
+      96,
+      96
+    ],
+    "note": "왼쪽 아래 꼬리 보존. 아래/왼쪽 고정 띠 96px.",
+    "cell": [
+      512,
+      512
+    ],
+    "content": [
+      [
+        8,
+        0,
+        495,
+        512
+      ]
+    ]
+  },
+  {
+    "file": "frame-tooltip.png",
+    "kind": "nine-slice",
+    "size": [
+      512,
+      512
+    ],
+    "states": 1,
+    "slice": [
+      24,
+      24,
+      24,
+      24
+    ],
+    "note": "Square empty almost-black lacquer tooltip panel with single very thin brass line, no elaborate decoration, plain center.",
+    "cell": [
+      512,
+      512
+    ],
+    "content": [
+      [
+        0,
+        0,
+        512,
+        512
+      ]
+    ]
+  },
+  {
+    "file": "bar-top.png",
+    "kind": "tile-x",
+    "size": [
+      512,
+      64
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "Very wide horizontal resource header strip, dark oxblood lacquer with thin brass TOP and BOTTOM lines. No end caps or corner motifs, texture repeats horizontally.",
+    "cell": [
+      512,
+      64
+    ],
+    "content": [
+      [
+        1,
+        0,
+        510,
+        64
+      ]
+    ]
+  },
+  {
+    "file": "bar-bottom.png",
+    "kind": "tile-x",
+    "size": [
+      512,
+      40
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "Very wide thin horizontal status bar, blackened red wood with fine aged brass top and bottom border only. No end caps, horizontally repeatable.",
+    "cell": [
+      512,
+      40
+    ],
+    "content": [
+      [
+        0,
+        0,
+        512,
+        39
+      ]
+    ]
+  },
+  {
+    "file": "drawer.png",
+    "kind": "nine-slice",
+    "size": [
+      512,
+      512
+    ],
+    "states": 1,
+    "slice": [
+      64,
+      96,
+      64,
+      64
+    ],
+    "note": "오른쪽 손잡이 보존. 오른쪽 고정 띠 96px.",
+    "cell": [
+      512,
+      512
+    ],
+    "content": [
+      [
+        0,
+        0,
+        512,
+        511
+      ]
+    ]
+  },
+  {
+    "file": "table-head.png",
+    "kind": "tile-x",
+    "size": [
+      256,
+      36
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "Very wide low rectangular dark red lacquer table header tile. Fine brass top bottom lines only. No end caps. Seamless horizontally repeatable plain center.",
+    "cell": [
+      256,
+      36
+    ],
+    "content": [
+      [
+        0,
+        0,
+        256,
+        36
+      ]
+    ]
+  },
+  {
+    "file": "table-row.png",
+    "kind": "tile-x",
+    "size": [
+      768,
+      32
+    ],
+    "states": 3,
+    "slice": null,
+    "note": "짝 줄, 홀 줄, 고른 줄. 가로 반복.",
+    "cell": [
+      256,
+      32
+    ],
+    "content": [
+      [
+        31,
+        0,
+        194,
+        32
+      ],
+      [
+        30,
+        0,
+        195,
+        32
+      ],
+      [
+        31,
+        0,
+        194,
+        32
+      ]
+    ]
+  },
+  {
+    "file": "divider.png",
+    "kind": "sprite",
+    "size": [
+      512,
+      64
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "One long thin horizontal aged brass divider, original small interwoven knot at exact center, ends taper to sharp thin points, magenta outside.",
+    "cell": [
+      512,
+      64
+    ],
+    "content": [
+      [
+        0,
+        20,
+        512,
+        23
+      ]
+    ]
+  },
+  {
+    "file": "title-ornament.png",
+    "kind": "sprite",
+    "size": [
+      256,
+      64
+    ],
+    "states": 2,
+    "slice": null,
+    "note": "왼쪽, 오른쪽 장식.",
+    "cell": [
+      128,
+      64
+    ],
+    "content": [
+      [
+        0,
+        18,
+        128,
+        28
+      ],
+      [
+        0,
+        18,
+        128,
+        28
+      ]
+    ]
+  },
+  {
+    "file": "button-primary.png",
+    "kind": "nine-slice",
+    "size": [
+      1024,
+      80
+    ],
+    "states": 4,
+    "slice": [
+      20,
+      20,
+      20,
+      20
+    ],
+    "note": "평상, 올림, 누름, 불가.",
+    "cell": [
+      256,
+      80
+    ],
+    "content": [
+      [
+        9,
+        0,
+        238,
+        80
+      ],
+      [
+        9,
+        0,
+        238,
+        80
+      ],
+      [
+        9,
+        0,
+        238,
+        80
+      ],
+      [
+        9,
+        0,
+        238,
+        80
+      ]
+    ]
+  },
+  {
+    "file": "button-secondary.png",
+    "kind": "nine-slice",
+    "size": [
+      1024,
+      80
+    ],
+    "states": 4,
+    "slice": [
+      20,
+      20,
+      20,
+      20
+    ],
+    "note": "평상, 올림, 누름, 불가.",
+    "cell": [
+      256,
+      80
+    ],
+    "content": [
+      [
+        9,
+        0,
+        238,
+        80
+      ],
+      [
+        9,
+        0,
+        238,
+        80
+      ],
+      [
+        9,
+        0,
+        238,
+        80
+      ],
+      [
+        9,
+        0,
+        237,
+        80
+      ]
+    ]
+  },
+  {
+    "file": "button-danger.png",
+    "kind": "nine-slice",
+    "size": [
+      1024,
+      80
+    ],
+    "states": 4,
+    "slice": [
+      20,
+      20,
+      20,
+      20
+    ],
+    "note": "평상, 올림, 누름, 불가.",
+    "cell": [
+      256,
+      80
+    ],
+    "content": [
+      [
+        13,
+        0,
+        230,
+        80
+      ],
+      [
+        12,
+        0,
+        231,
+        80
+      ],
+      [
+        13,
+        0,
+        230,
+        80
+      ],
+      [
+        13,
+        0,
+        230,
+        80
+      ]
+    ]
+  },
+  {
+    "file": "button-accent.png",
+    "kind": "nine-slice",
+    "size": [
+      1024,
+      80
+    ],
+    "states": 4,
+    "slice": [
+      20,
+      20,
+      20,
+      20
+    ],
+    "note": "평상, 올림, 누름, 불가.",
+    "cell": [
+      256,
+      80
+    ],
+    "content": [
+      [
+        0,
+        0,
+        255,
+        80
+      ],
+      [
+        0,
+        0,
+        255,
+        80
+      ],
+      [
+        0,
+        0,
+        255,
+        80
+      ],
+      [
+        0,
+        0,
+        255,
+        80
+      ]
+    ]
+  },
+  {
+    "file": "button-round.png",
+    "kind": "sprite",
+    "size": [
+      384,
+      96
+    ],
+    "states": 4,
+    "slice": null,
+    "note": "평상, 올림, 누름, 불가.",
+    "cell": [
+      96,
+      96
+    ],
+    "content": [
+      [
+        0,
+        0,
+        96,
+        96
+      ],
+      [
+        0,
+        0,
+        95,
+        96
+      ],
+      [
+        0,
+        0,
+        96,
+        96
+      ],
+      [
+        0,
+        0,
+        96,
+        96
+      ]
+    ]
+  },
+  {
+    "file": "tab-horizontal.png",
+    "kind": "nine-slice",
+    "size": [
+      320,
+      64
+    ],
+    "states": 2,
+    "slice": [
+      16,
+      16,
+      16,
+      16
+    ],
+    "note": "활성, 비활성.",
+    "cell": [
+      160,
+      64
+    ],
+    "content": [
+      [
+        0,
+        6,
+        160,
+        52
+      ],
+      [
+        0,
+        6,
+        160,
+        52
+      ]
+    ]
+  },
+  {
+    "file": "tab-vertical.png",
+    "kind": "nine-slice",
+    "size": [
+      128,
+      160
+    ],
+    "states": 2,
+    "slice": [
+      16,
+      16,
+      16,
+      16
+    ],
+    "note": "활성, 비활성.",
+    "cell": [
+      64,
+      160
+    ],
+    "content": [
+      [
+        0,
+        2,
+        64,
+        156
+      ],
+      [
+        0,
+        2,
+        64,
+        156
+      ]
+    ]
+  },
+  {
+    "file": "chip.png",
+    "kind": "nine-slice",
+    "size": [
+      560,
+      40
+    ],
+    "states": 5,
+    "slice": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "note": "붉은색, 초록, 쪽빛, 금색, 회색.",
+    "cell": [
+      112,
+      40
+    ],
+    "content": [
+      [
+        5,
+        0,
+        101,
+        40
+      ],
+      [
+        5,
+        0,
+        101,
+        40
+      ],
+      [
+        5,
+        0,
+        101,
+        40
+      ],
+      [
+        5,
+        0,
+        101,
+        40
+      ],
+      [
+        5,
+        0,
+        101,
+        40
+      ]
+    ]
+  },
+  {
+    "file": "step.png",
+    "kind": "nine-slice",
+    "size": [
+      384,
+      64
+    ],
+    "states": 3,
+    "slice": [
+      16,
+      16,
+      16,
+      16
+    ],
+    "note": "지금, 지난, 앞으로.",
+    "cell": [
+      128,
+      64
+    ],
+    "content": [
+      [
+        0,
+        1,
+        128,
+        61
+      ],
+      [
+        0,
+        1,
+        128,
+        61
+      ],
+      [
+        0,
+        1,
+        128,
+        61
+      ]
+    ]
+  },
+  {
+    "file": "icon-buttons.png",
+    "kind": "sprite",
+    "size": [
+      512,
+      64
+    ],
+    "states": 8,
+    "slice": null,
+    "note": "닫기, 뒤로, 메뉴, 확대, 축소, 도움말(등불), 새로 고침, 설정.",
+    "cell": [
+      64,
+      64
+    ],
+    "content": [
+      [
+        0,
+        0,
+        64,
+        64
+      ],
+      [
+        0,
+        0,
+        64,
+        64
+      ],
+      [
+        0,
+        0,
+        64,
+        64
+      ],
+      [
+        0,
+        0,
+        63,
+        64
+      ],
+      [
+        0,
+        0,
+        64,
+        64
+      ],
+      [
+        0,
+        0,
+        64,
+        64
+      ],
+      [
+        0,
+        0,
+        63,
+        64
+      ],
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ]
+  },
+  {
+    "file": "input-text.png",
+    "kind": "nine-slice",
+    "size": [
+      1024,
+      64
+    ],
+    "states": 4,
+    "slice": [
+      16,
+      16,
+      16,
+      16
+    ],
+    "note": "평상, 초점, 오류, 불가.",
+    "cell": [
+      256,
+      64
+    ],
+    "content": [
+      [
+        20,
+        0,
+        216,
+        64
+      ],
+      [
+        19,
+        0,
+        217,
+        64
+      ],
+      [
+        19,
+        0,
+        217,
+        64
+      ],
+      [
+        20,
+        0,
+        216,
+        64
+      ]
+    ]
+  },
+  {
+    "file": "select.png",
+    "kind": "nine-slice",
+    "size": [
+      1024,
+      64
+    ],
+    "states": 4,
+    "slice": [
+      16,
+      48,
+      16,
+      16
+    ],
+    "note": "평상, 초점, 오류, 불가. 화살표 보존을 위해 오른쪽 48px 고정.",
+    "cell": [
+      256,
+      64
+    ],
+    "content": [
+      [
+        14,
+        0,
+        228,
+        64
+      ],
+      [
+        14,
+        0,
+        228,
+        64
+      ],
+      [
+        14,
+        0,
+        228,
+        64
+      ],
+      [
+        14,
+        0,
+        228,
+        64
+      ]
+    ]
+  },
+  {
+    "file": "select-list.png",
+    "kind": "nine-slice",
+    "size": [
+      512,
+      512
+    ],
+    "states": 1,
+    "slice": [
+      24,
+      24,
+      24,
+      24
+    ],
+    "note": "Square empty unfolded dropdown list panel, warm hanji paper with thin aged brass straight frame. No rows or text. Plain quiet center, corner join details only outer 4%.",
+    "cell": [
+      512,
+      512
+    ],
+    "content": [
+      [
+        0,
+        0,
+        512,
+        512
+      ]
+    ]
+  },
+  {
+    "file": "checkbox.png",
+    "kind": "sprite",
+    "size": [
+      96,
+      32
+    ],
+    "states": 3,
+    "slice": null,
+    "note": "빈 칸, 붓 체크, 불가.",
+    "cell": [
+      32,
+      32
+    ],
+    "content": [
+      [
+        0,
+        0,
+        32,
+        32
+      ],
+      [
+        0,
+        0,
+        32,
+        32
+      ],
+      [
+        0,
+        0,
+        32,
+        32
+      ]
+    ]
+  },
+  {
+    "file": "radio.png",
+    "kind": "sprite",
+    "size": [
+      96,
+      32
+    ],
+    "states": 3,
+    "slice": null,
+    "note": "빈 칸, 찬 칸, 불가.",
+    "cell": [
+      32,
+      32
+    ],
+    "content": [
+      [
+        0,
+        0,
+        31,
+        32
+      ],
+      [
+        0,
+        0,
+        31,
+        32
+      ],
+      [
+        0,
+        0,
+        31,
+        32
+      ]
+    ]
+  },
+  {
+    "file": "switch.png",
+    "kind": "sprite",
+    "size": [
+      128,
+      32
+    ],
+    "states": 2,
+    "slice": null,
+    "note": "꺼짐, 켜짐.",
+    "cell": [
+      64,
+      32
+    ],
+    "content": [
+      [
+        0,
+        3,
+        64,
+        25
+      ],
+      [
+        0,
+        3,
+        64,
+        25
+      ]
+    ]
+  },
+  {
+    "file": "slider.png",
+    "kind": "sprite",
+    "size": [
+      512,
+      48
+    ],
+    "states": 2,
+    "slice": null,
+    "note": "왼쪽 칸: 가로 반복 홈. 오른쪽 칸: 엽전 손잡이. 상태가 아닌 부품 2칸.",
+    "cell": [
+      256,
+      48
+    ],
+    "content": [
+      [
+        49,
+        13,
+        157,
+        21
+      ],
+      [
+        104,
+        0,
+        48,
+        48
+      ]
+    ]
+  },
+  {
+    "file": "stepper.png",
+    "kind": "nine-slice",
+    "size": [
+      512,
+      64
+    ],
+    "states": 8,
+    "slice": [
+      12,
+      12,
+      12,
+      12
+    ],
+    "note": "+ 평상/올림/누름/불가, − 평상/올림/누름/불가.",
+    "cell": [
+      64,
+      64
+    ],
+    "content": [
+      [
+        0,
+        0,
+        63,
+        64
+      ],
+      [
+        0,
+        0,
+        63,
+        64
+      ],
+      [
+        0,
+        0,
+        63,
+        64
+      ],
+      [
+        0,
+        0,
+        63,
+        64
+      ],
+      [
+        0,
+        0,
+        63,
+        64
+      ],
+      [
+        0,
+        0,
+        63,
+        64
+      ],
+      [
+        0,
+        0,
+        63,
+        64
+      ],
+      [
+        0,
+        0,
+        63,
+        64
+      ]
+    ]
+  },
+  {
+    "file": "search.png",
+    "kind": "nine-slice",
+    "size": [
+      256,
+      64
+    ],
+    "states": 1,
+    "slice": [
+      16,
+      16,
+      16,
+      64
+    ],
+    "note": "왼쪽 돋보기 보존. 왼쪽 고정 띠 64px.",
+    "cell": [
+      256,
+      64
+    ],
+    "content": [
+      [
+        0,
+        8,
+        256,
+        48
+      ]
+    ]
+  },
+  {
+    "file": "gauge-track.png",
+    "kind": "nine-slice",
+    "size": [
+      256,
+      32
+    ],
+    "states": 1,
+    "slice": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "note": "One long horizontal empty recessed black wood gauge trough with thin brass square rim, plain dark center. Sharp corners.",
+    "cell": [
+      256,
+      32
+    ],
+    "content": [
+      [
+        0,
+        0,
+        256,
+        31
+      ]
+    ]
+  },
+  {
+    "file": "gauge-fill.png",
+    "kind": "tile-x",
+    "size": [
+      1024,
+      24
+    ],
+    "states": 4,
+    "slice": null,
+    "note": "붉은색 병사, 금색 사기, 초록 내정, 쪽빛 훈련. 가로 반복.",
+    "cell": [
+      256,
+      24
+    ],
+    "content": [
+      [
+        45,
+        0,
+        165,
+        24
+      ],
+      [
+        44,
+        0,
+        168,
+        24
+      ],
+      [
+        44,
+        0,
+        168,
+        24
+      ],
+      [
+        45,
+        0,
+        165,
+        24
+      ]
+    ]
+  },
+  {
+    "file": "ring.png",
+    "kind": "sprite",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "One circular EMPTY brass ring frame for turn clock or morale chart, thin engraved circular bands, magenta interior and exterior, NO hands, ticks, text or numerals.",
+    "cell": [
+      128,
+      128
+    ],
+    "content": [
+      [
+        0,
+        0,
+        128,
+        128
+      ]
+    ]
+  },
+  {
+    "file": "spinner.png",
+    "kind": "sprite",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "One circular rotating spinner design of EIGHT radial groups of three small solid/broken brass bars inspired by abstract bagua, around empty circular magenta center. No yin-yang, letters, text or glyphs. Magenta exterior.",
+    "cell": [
+      128,
+      128
+    ],
+    "content": [
+      [
+        0,
+        0,
+        128,
+        128
+      ]
+    ]
+  },
+  {
+    "file": "badge-dot.png",
+    "kind": "sprite",
+    "size": [
+      64,
+      32
+    ],
+    "states": 2,
+    "slice": null,
+    "note": "알림 점, 숫자 딱지 빈 바탕.",
+    "cell": [
+      32,
+      32
+    ],
+    "content": [
+      [
+        6,
+        6,
+        20,
+        20
+      ],
+      [
+        0,
+        0,
+        32,
+        32
+      ]
+    ]
+  },
+  {
+    "file": "pager.png",
+    "kind": "nine-slice",
+    "size": [
+      768,
+      64
+    ],
+    "states": 12,
+    "slice": [
+      12,
+      12,
+      12,
+      12
+    ],
+    "note": "이전 4상태, 다음 4상태, 번호 빈 칸 4상태. 각 평상/올림/누름/불가.",
+    "cell": [
+      64,
+      64
+    ],
+    "content": [
+      [
+        0,
+        0,
+        64,
+        63
+      ],
+      [
+        0,
+        0,
+        64,
+        63
+      ],
+      [
+        0,
+        0,
+        64,
+        63
+      ],
+      [
+        0,
+        0,
+        64,
+        63
+      ],
+      [
+        0,
+        1,
+        63,
+        62
+      ],
+      [
+        0,
+        1,
+        63,
+        62
+      ],
+      [
+        0,
+        1,
+        63,
+        62
+      ],
+      [
+        0,
+        1,
+        63,
+        62
+      ],
+      [
+        0,
+        0,
+        64,
+        64
+      ],
+      [
+        0,
+        0,
+        64,
+        64
+      ],
+      [
+        0,
+        0,
+        64,
+        64
+      ],
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ]
+  },
+  {
+    "file": "scrollbar.png",
+    "kind": "compound",
+    "size": [
+      64,
+      256
+    ],
+    "states": 2,
+    "slice": [
+      8,
+      8,
+      8,
+      8
+    ],
+    "note": "왼쪽 칸: 세로 반복 홈. 오른쪽 칸: 손잡이 9분할 [8,8,8,8].",
+    "cell": [
+      32,
+      256
+    ],
+    "content": [
+      [
+        0,
+        24,
+        32,
+        208
+      ],
+      [
+        0,
+        24,
+        32,
+        208
+      ]
+    ]
+  }
+]

@@ -1,0 +1,557 @@
+[
+  {
+    "file": "icon-res-gold.png",
+    "kind": "resource",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "엽전 꾸러미. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-res-rice.png",
+    "kind": "resource",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a bulging straw rice sack, open top revealing white rice. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-res-troops.png",
+    "kind": "resource",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "three upright iron spears tied with oxblood cord. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-res-contribution.png",
+    "kind": "resource",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a tied bamboo merit ledger, entirely blank slats. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-res-experience.png",
+    "kind": "resource",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a worn battle sword hilt with weathered leather grip. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-res-population.png",
+    "kind": "resource",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a compact thatched-roof village of three houses. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-res-loyalty.png",
+    "kind": "resource",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "two commoners hands gently clasped, warm and loyal. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-res-tech.png",
+    "kind": "resource",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a blacksmith iron hammer on a small anvil. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-res-wall.png",
+    "kind": "resource",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a stone battlement with three crenellations. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-res-security.png",
+    "kind": "resource",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a patrol lantern with warm glowing parchment and brass frame. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-res-agriculture.png",
+    "kind": "resource",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a golden harvested rice sheaf bound with red cord. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-res-commerce.png",
+    "kind": "resource",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a bronze merchant balance scale. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-res-defence.png",
+    "kind": "resource",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a red lacquer wooden shield edged in brass. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-res-iron.png",
+    "kind": "resource",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "three rough dark iron ingots. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-res-wood.png",
+    "kind": "resource",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a neatly stacked pile of cut logs. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-res-horses.png",
+    "kind": "resource",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a chestnut horse head in three-quarter profile. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-res-storage.png",
+    "kind": "resource",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a small raised granary with grain sacks. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-res-transport.png",
+    "kind": "resource",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a two-wheeled wooden cargo handcart. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-res-supply.png",
+    "kind": "resource",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a tied army ration bundle beside a wooden water flask. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-res-morale.png",
+    "kind": "resource",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a red lacquer war drum with brass studs. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-res-training.png",
+    "kind": "resource",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a straw archery target with concentric rings and one arrow. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-res-scheme.png",
+    "kind": "resource",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "an open folding strategist fan of ivory parchment and dark wood. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-stat-leadership.png",
+    "kind": "stat",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a commander red battle flag on brass pole, no symbols. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-stat-strength.png",
+    "kind": "stat",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "one strong diagonal iron sword. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-stat-intel.png",
+    "kind": "stat",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "an open bamboo strategy scroll with entirely blank slats. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-stat-politics.png",
+    "kind": "stat",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a bronze official seal stamp, blank face. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-stat-charm.png",
+    "kind": "stat",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a carved pale jade pendant with red tassel. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-nav-main.png",
+    "kind": "navigation",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "an unfolded parchment terrain map with one small red flag, no writing. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-nav-turns.png",
+    "kind": "navigation",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a bundle of three red wooden command tokens, entirely blank. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-nav-map.png",
+    "kind": "navigation",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a rolled parchment map, no writing. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-nav-nation.png",
+    "kind": "navigation",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "an ancient ruler ceremonial crown with hanging bead strands. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-nav-diplomacy.png",
+    "kind": "navigation",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "two clasped hands above a folded red silk cloth. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-nav-inbox.png",
+    "kind": "navigation",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a sealed folded parchment letter tied by red string, blank seal. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-nav-operations.png",
+    "kind": "navigation",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a blank military strategy book beside black and white go stones. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-nav-records.png",
+    "kind": "navigation",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a historian brush resting on a closed blank book. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-nav-ranking.png",
+    "kind": "navigation",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a golden three-step winners podium. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-nav-simulator.png",
+    "kind": "navigation",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a miniature horse game piece standing on a square sand table. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-nav-help.png",
+    "kind": "navigation",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a standing oil lamp with golden flame. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-nav-messages.png",
+    "kind": "navigation",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a messenger pigeon carrying a small tied scroll. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-nav-account.png",
+    "kind": "navigation",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "a blank wooden identity tag tied with red cord. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-nav-settings.png",
+    "kind": "navigation",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "an ancient south-pointing compass spoon on a square bronze compass plate, no markings. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "icon-nav-logout.png",
+    "kind": "navigation",
+    "size": [
+      128,
+      128
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "an open wooden fortress gate with visible doorway. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "portrait-frame.png",
+    "kind": "portrait",
+    "size": [
+      160,
+      200
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "큰 초상 틀, 안쪽 초상 영역 96:120. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF. 초상 96×120 안전 배치 영역: x=32, y=40. 고정 크기 사용."
+  },
+  {
+    "file": "portrait-ring.png",
+    "kind": "portrait",
+    "size": [
+      256,
+      256
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "원형 초상 테, 흰 세력색 고리. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF. 바깥 흰 고리는 세력색 틴트용. 가운데 마젠타는 초상 구멍."
+  },
+  {
+    "file": "portrait-ring-small.png",
+    "kind": "portrait",
+    "size": [
+      96,
+      96
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "작은 원형 초상 테, 흰 세력색 고리. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF. 바깥 흰 고리는 세력색 틴트용. 가운데 마젠타는 초상 구멍."
+  },
+  {
+    "file": "nation-badge.png",
+    "kind": "nine-slice",
+    "size": [
+      320,
+      64
+    ],
+    "states": 1,
+    "slice": [
+      12,
+      12,
+      12,
+      72
+    ],
+    "note": "세력 이름표, 왼쪽 흰 깃발. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF. 왼쪽 깃발 72px 고정. 9분할 값은 전체 캔버스 기준."
+  },
+  {
+    "file": "art-empty.png",
+    "kind": "illustration",
+    "size": [
+      512,
+      384
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "텅 빈 서고와 촛불. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "art-error.png",
+    "kind": "illustration",
+    "size": [
+      512,
+      384
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "부러진 붓과 엎어진 먹. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "logo-opensamguk.png",
+    "kind": "logo",
+    "size": [
+      1024,
+      512
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "오픈삼국 붓글씨와 글자 없는 붉은 인장. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  },
+  {
+    "file": "logo-mark.png",
+    "kind": "logo",
+    "size": [
+      256,
+      256
+    ],
+    "states": 1,
+    "slice": null,
+    "note": "글자 없는 붉은 옥새 인장. 내장 ImageGen 개별 생성. 종횡비 유지 축소, 빈 영역 #FF00FF."
+  }
+]

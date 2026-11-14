@@ -1,0 +1,400 @@
+{
+  "decision": "D-094",
+  "tool": "Codex built-in image generation",
+  "input": "text only",
+  "processing": "Alpha-bound crop, 12 px transparent pad, Lanczos resampling, WebP quality 91 with alpha",
+  "projection": "Art requested at 45 degrees down, north up; bottom centre contact anchor and map scale are initial estimates.",
+  "assets": [
+    {
+      "file": "barracks.webp",
+      "sha256": "e269863d17286ee8965b840d144e5a2cbc3836226d87ed942ee660e02c9acf5b",
+      "width": 2048,
+      "height": 1349,
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "anchorPx": [
+        1024,
+        1336
+      ],
+      "footprintMapUnits": 8,
+      "pixelsPerMapUnit": 253.0,
+      "prompt": "Original isolated game sprite of a single historical late Han China asset circa 192 CE, genuine transparent RGB-alpha background around the entire asset including gaps, no sky, no scene surroundings, no floor beyond the base, no projected shadow outside footprint, no text, no characters, no inset. Text-only. Fixed parallel orthographic projection with camera directly south, 45 degrees down from horizontal, north up, front edges horizontal, symmetric top-front view as seen in a videogame. Northwest soft daylight. Realistic tiny-scale material details suitable for an AAA historical strategy map, crisp weathered historical masonry and timber craftsmanship. Standalone rectangular plinth visible at bottom; central ground point toward bottom. Entire footprint shown with margin. Single composition, highest native detail possible.\n\nMilitary barracks fragment showing three long late Han black-tiled timber-and-plaster buildings grouped around a square practice yard with pole racks, low picket fence, sparse flags, detailed earth and materials."
+    },
+    {
+      "file": "camp.webp",
+      "sha256": "554359211c8973b190cd0ed42af15ec3acd86f6051b36a8f3a41837ca1944181",
+      "width": 2048,
+      "height": 1826,
+      "nativeSize": [
+        1312,
+        1199
+      ],
+      "anchorPx": [
+        1024,
+        1813
+      ],
+      "footprintMapUnits": 10,
+      "pixelsPerMapUnit": 202.4,
+      "prompt": "Original photoreal historical strategy-game ASSET SPRITE, late-Han China c. 192. No graphics reference, text-only. Single isolated fully cut-out asset, with genuine transparent alpha everywhere beyond its footprint including internal holes, no ground plane, no scenery, no cast shadow outside base, no backdrop, no typography, no watermark. Camera strictly orthographic, exactly 45 degrees downward from horizontal. North points to top screen, south main entrance faces directly toward camera at bottom center, east right and west left, parallel front-facing east-west walls run horizontally. Northwest daylight from upper left. Footprint is a tidy standalone square/rectangular tile base, fully in frame with small margins and its front edge near bottom. Highly detailed weathered physically plausible grey block masonry, realistic clay/carpentry, exceptionally crisp hand-painted photoreal videogame materials, regionally accurate ancient architecture. Entire sprite unobstructed, close crop and occupy most of image. Render at highest native resolution possible.\n\nLate Han field military camp. Isolated compact tile with weathered sharpened timber palisade connected at corners, prominent gates centered on front wall, two tall timber watch posts, precise rows of layered cream tent roofs, flags and equipment, orderly central gravel paths, believable proportions."
+    },
+    {
+      "file": "city-grand-capital.webp",
+      "sha256": "5222cc97dfcb5929907f34a487bb3b8660989bbe55b151c44e931c8b426d82ac",
+      "width": 3072,
+      "height": 2797,
+      "nativeSize": [
+        1312,
+        1199
+      ],
+      "anchorPx": [
+        1536,
+        2784
+      ],
+      "footprintMapUnits": 26,
+      "pixelsPerMapUnit": 117.2308,
+      "prompt": "Original photoreal historical strategy-game ASSET SPRITE, late-Han China c. 192. No graphics reference, text-only. Single isolated fully cut-out asset, with genuine transparent alpha everywhere beyond its footprint including internal holes, no ground plane, no scenery, no cast shadow outside base, no backdrop, no typography, no watermark. Camera strictly orthographic, exactly 45 degrees downward from horizontal. North points to top screen, south main entrance faces directly toward camera at bottom center, east right and west left, parallel front-facing east-west walls run horizontally. Northwest daylight from upper left. Footprint is a tidy standalone square/rectangular tile base, fully in frame with small margins and its front edge near bottom. Highly detailed weathered physically plausible grey block masonry, realistic clay/carpentry, exceptionally crisp hand-painted photoreal videogame materials, regionally accurate ancient architecture. Entire sprite unobstructed, close crop and occupy most of image. Render at highest native resolution possible.\n\nGrand imperial capital (size 특). A great rectangular late Han brick fortress-city, stone earthen raised plinth, masonry individual stone courses, battered-base bastions and crenellations, parapet walkway, four tall corner towers with layered deeply upturned glazed roofs, central three-tier south gate, giant imperial palace and courtyards with warm glazed yellow-orange tiles, dense coherent grid of at least 150 small tiled roofs/courtyard residences across full width, narrow streets, trees, visible dark water moat on four sides with narrow bridge and outskirts/farm strips within base. Main emphasis all specified details, even at close zoom. Realistic proportion understated historic materials."
+    },
+    {
+      "file": "city-grand.webp",
+      "sha256": "f38589187262c25167127d76d06f0340e6ec39cef625d42504b3276c1c6369df",
+      "width": 3072,
+      "height": 1952,
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "anchorPx": [
+        1536,
+        1939
+      ],
+      "footprintMapUnits": 26,
+      "pixelsPerMapUnit": 117.2308,
+      "prompt": "Original isolated game sprite of a single historical late Han China asset circa 192 CE, genuine transparent RGB-alpha background around the entire asset including gaps, no sky, no scene surroundings, no floor beyond the base, no projected shadow outside footprint, no text, no characters, no inset. Text-only. Fixed parallel orthographic projection with camera directly south, 45 degrees down from horizontal, north up, front edges horizontal, symmetric top-front view as seen in a videogame. Northwest soft daylight. Realistic tiny-scale material details suitable for an AAA historical strategy map, crisp weathered historical masonry and timber craftsmanship. Standalone rectangular plinth visible at bottom; central ground point toward bottom. Entire footprint shown with margin. Single composition, highest native detail possible.\n\nSize 특, non-capital, great regional fortified metropolis. Tall brick curtain walls with distinct brick courses and parapet walks, crenellations and beveled battered buttresses. Four realistic 2-tier watchtowers and grand three-tier southern gate with curved layered roofs. More than 150 dark-grey tiled roofs visibly packed in courtyard blocks, grid streets, greenery and an austere non-imperial black-tiled administrative hall, narrow moat with south bridge, farmlands outside stone plinth."
+    },
+    {
+      "file": "city-imperial-capital.webp",
+      "sha256": "8fc4cfb28c6ab86ffaa2d9976b7af819877ece47642a9294cb77909d5459c57d",
+      "width": 3072,
+      "height": 1999,
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "anchorPx": [
+        1536,
+        1986
+      ],
+      "footprintMapUnits": 30,
+      "pixelsPerMapUnit": 101.6,
+      "prompt": "Photoreal game sprite. Late Han China. True transparent alpha beyond asset, no terrain beyond rectangular tile base, no borders or background, no cast shadow beyond the base. Camera orthographic exactly 45 degrees downward, from the south with north up and front wall horizontal. Soft northwest light. Text-only input and no words in picture. Authentic deep eaves, clay tile and weathered brick, premium texture density. Entire tile in frame.\n\nLargest size 경, reigning imperial capital. Vast rectangular grey Han metropolis with at least 200 dense grey courtyard roofs, an extensive bright gold imperial palace compound, three-tier ceremonial south gate with curved roof, 4 stone corner towers, defensive moat, city farming strip and stone bridge."
+    },
+    {
+      "file": "city-imperial.webp",
+      "sha256": "5c726b740851516ad3ec4168a28f9d9e063b72c5cc45f04d3a15a87d8bdb1ebf",
+      "width": 3072,
+      "height": 1990,
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "anchorPx": [
+        1536,
+        1977
+      ],
+      "footprintMapUnits": 30,
+      "pixelsPerMapUnit": 101.6,
+      "prompt": "Original isolated game sprite of a single historical late Han China asset circa 192 CE, genuine transparent RGB-alpha background around the entire asset including gaps, no sky, no scene surroundings, no floor beyond the base, no projected shadow outside footprint, no text, no characters, no inset. Text-only. Fixed parallel orthographic projection with camera directly south, 45 degrees down from horizontal, north up, front edges horizontal, symmetric top-front view as seen in a videogame. Northwest soft daylight. Realistic tiny-scale material details suitable for an AAA historical strategy map, crisp weathered historical masonry and timber craftsmanship. Standalone rectangular plinth visible at bottom; central ground point toward bottom. Entire footprint shown with margin. Single composition, highest native detail possible.\n\nLargest size 경. Huge grey fortified imperial metropolis standing on a stone-and-earth plinth. Hundreds of extremely dense dark-grey roofed courtyard houses in blocks, distinct main streets, varied mansion courts around a huge gold-glazed imperial complex, bright stone boundary walls with battered bastions, clear brick courses, parapet walks, articulated crenellations, massive jade timber 3-storey southern gate with roof ridges, tall corner towers, green moat and bridges with controlled riverbanks and small cultivated margins. More crowded and monumental than an ordinary capital."
+    },
+    {
+      "file": "city-large-capital.webp",
+      "sha256": "ca5c37ab98941cff420764ad28c8b3488eedf5959c750ce88c56f988cdbcb3c7",
+      "width": 2048,
+      "height": 1353,
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "anchorPx": [
+        1024,
+        1340
+      ],
+      "footprintMapUnits": 21,
+      "pixelsPerMapUnit": 96.381,
+      "prompt": "Original isolated game sprite of a single historical late Han China asset circa 192 CE, genuine transparent RGB-alpha background around the entire asset including gaps, no sky, no scene surroundings, no floor beyond the base, no projected shadow outside footprint, no text, no characters, no inset. Text-only. Fixed parallel orthographic projection with camera directly south, 45 degrees down from horizontal, north up, front edges horizontal, symmetric top-front view as seen in a videogame. Northwest soft daylight. Realistic tiny-scale material details suitable for an AAA historical strategy map, crisp weathered historical masonry and timber craftsmanship. Standalone rectangular plinth visible at bottom; central ground point toward bottom. Entire footprint shown with margin. Single composition, highest native detail possible.\n\nLarge regional capital, strong grey brick and four corner towers with grey tile, detailed tall 2-tier gatehouse, dense 70 houses and dignified multi-hall yellow glazed palace at the center, moat and bridge, walled courtyard and trees."
+    },
+    {
+      "file": "city-large.webp",
+      "sha256": "76f82add41bb5d14f61bd4a9c743cd755e71f5a83ef95abebd49123275ccfe14",
+      "width": 2048,
+      "height": 1332,
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "anchorPx": [
+        1024,
+        1319
+      ],
+      "footprintMapUnits": 21,
+      "pixelsPerMapUnit": 96.381,
+      "prompt": "Original isolated game sprite of a single historical late Han China asset circa 192 CE, genuine transparent RGB-alpha background around the entire asset including gaps, no sky, no scene surroundings, no floor beyond the base, no projected shadow outside footprint, no text, no characters, no inset. Text-only. Fixed parallel orthographic projection with camera directly south, 45 degrees down from horizontal, north up, front edges horizontal, symmetric top-front view as seen in a videogame. Northwest soft daylight. Realistic tiny-scale material details suitable for an AAA historical strategy map, crisp weathered historical masonry and timber craftsmanship. Standalone rectangular plinth visible at bottom; central ground point toward bottom. Entire footprint shown with margin. Single composition, highest native detail possible.\n\nSize 대, regional prefectural fortified city. Tall grey worn masonry curtain walls and corner lookout towers, crenellations, impressively detailed double-eave entrance, 70 tightly assembled residential roofs in grid blocks with several planted courtyards, charcoal roofed hall, moat behind front bridge, sparse nearby fields on the tile base."
+    },
+    {
+      "file": "city-medium-capital.webp",
+      "sha256": "65c33014fb23bd45054d58c53abf75f2f399321481a29ae277c2f09ac832bd67",
+      "width": 2048,
+      "height": 1335,
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "anchorPx": [
+        1024,
+        1322
+      ],
+      "footprintMapUnits": 17,
+      "pixelsPerMapUnit": 119.0588,
+      "prompt": "Original isolated game sprite of a single historical late Han China asset circa 192 CE, genuine transparent RGB-alpha background around the entire asset including gaps, no sky, no scene surroundings, no floor beyond the base, no projected shadow outside footprint, no text, no characters, no inset. Text-only. Fixed parallel orthographic projection with camera directly south, 45 degrees down from horizontal, north up, front edges horizontal, symmetric top-front view as seen in a videogame. Northwest soft daylight. Realistic tiny-scale material details suitable for an AAA historical strategy map, crisp weathered historical masonry and timber craftsmanship. Standalone rectangular plinth visible at bottom; central ground point toward bottom. Entire footprint shown with margin. Single composition, highest native detail possible.\n\nMedium walled regional capital with weathered brick, two-tier curved gatehouse and steely grey homes around distinct small orange-gold glazed palace courtyard and grove, narrow defensive ditch, detailed masonry and plinth."
+    },
+    {
+      "file": "city-medium.webp",
+      "sha256": "8bf00128c54f1fd53748179a2cce371e3d5ad3ef2209d77a4e5e1aead7b750a4",
+      "width": 2048,
+      "height": 1463,
+      "nativeSize": [
+        1448,
+        1086
+      ],
+      "anchorPx": [
+        1024,
+        1450
+      ],
+      "footprintMapUnits": 17,
+      "pixelsPerMapUnit": 119.0588,
+      "prompt": "Original isolated game sprite of a single historical late Han China asset circa 192 CE, genuine transparent RGB-alpha background around the entire asset including gaps, no sky, no scene surroundings, no floor beyond the base, no projected shadow outside footprint, no text, no characters, no inset. Text-only. Fixed parallel orthographic projection with camera directly south, 45 degrees down from horizontal, north up, front edges horizontal, symmetric top-front view as seen in a videogame. Northwest soft daylight. Realistic tiny-scale material details suitable for an AAA historical strategy map, crisp weathered historical masonry and timber craftsmanship. Standalone rectangular plinth visible at bottom; central ground point toward bottom. Entire footprint shown with margin. Single composition, highest native detail possible.\n\nSize 중, compact walled administrative town, low weathered grey masonry walls and crenellations, modest elaborately curved 2-level entrance, about 30 authentic clay-tiled dwellings and small courtyards, a tree-lined lane, one simple dark-tiled magistrate hall, shallow drainage ditch, square low plinth."
+    },
+    {
+      "file": "city-small-capital.webp",
+      "sha256": "d488f3ee410fb51ca09e6d78ff06f0510463e64933cdb6bdf312558f6a477183",
+      "width": 2048,
+      "height": 1834,
+      "nativeSize": [
+        1312,
+        1199
+      ],
+      "anchorPx": [
+        1024,
+        1821
+      ],
+      "footprintMapUnits": 13,
+      "pixelsPerMapUnit": 155.6923,
+      "prompt": "Original isolated game sprite of a single historical late Han China asset circa 192 CE, genuine transparent RGB-alpha background around the entire asset including gaps, no sky, no scene surroundings, no floor beyond the base, no projected shadow outside footprint, no text, no characters, no inset. Text-only. Fixed parallel orthographic projection with camera directly south, 45 degrees down from horizontal, north up, front edges horizontal, symmetric top-front view as seen in a videogame. Northwest soft daylight. Realistic tiny-scale material details suitable for an AAA historical strategy map, crisp weathered historical masonry and timber craftsmanship. Standalone rectangular plinth visible at bottom; central ground point toward bottom. Entire footprint shown with margin. Single composition, highest native detail possible.\n\nSmall regional seat chosen as a minor capital, low ochre rammed-earth walls with visible material layers, small charcoal tiled gate and a compact central gold glazed administrative shrine and hall, about ten other tiled homes, square plinth, green patches."
+    },
+    {
+      "file": "city-small.webp",
+      "sha256": "c48c049a3b41b0dc6590942e324165905216ad74be414267ab527500f3e021c0",
+      "width": 2048,
+      "height": 1847,
+      "nativeSize": [
+        1312,
+        1199
+      ],
+      "anchorPx": [
+        1024,
+        1834
+      ],
+      "footprintMapUnits": 13,
+      "pixelsPerMapUnit": 155.6923,
+      "prompt": "Original photoreal historical strategy-game ASSET SPRITE, late-Han China c. 192. No graphics reference, text-only. Single isolated fully cut-out asset, with genuine transparent alpha everywhere beyond its footprint including internal holes, no ground plane, no scenery, no cast shadow outside base, no backdrop, no typography, no watermark. Camera strictly orthographic, exactly 45 degrees downward from horizontal. North points to top screen, south main entrance faces directly toward camera at bottom center, east right and west left, parallel front-facing east-west walls run horizontally. Northwest daylight from upper left. Footprint is a tidy standalone square/rectangular tile base, fully in frame with small margins and its front edge near bottom. Highly detailed weathered physically plausible grey block masonry, realistic clay/carpentry, exceptionally crisp hand-painted photoreal videogame materials, regionally accurate ancient architecture. Entire sprite unobstructed, close crop and occupy most of image. Render at highest native resolution possible.\n\nSmall late Han county stronghold, yellow ochre rammed-earth rectangular curtain walls with closely spaced distinct sediment and tamped-earth layers, low crenellations, one modest dark-grey tiled timber gate facing the viewer. Eight to twelve courtyard dwellings, tiled roofs, compact inner paths, small public hall, trees, stone footing on square shallow earth plinth, cultivated narrow edges as part of plinth. Realistic modest size."
+    },
+    {
+      "file": "farm.webp",
+      "sha256": "39487e50558b4b3d07d997f810ea0bdf13abf583104626d6dc17f6f2e11eb186",
+      "width": 2048,
+      "height": 1338,
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "anchorPx": [
+        1024,
+        1325
+      ],
+      "footprintMapUnits": 8,
+      "pixelsPerMapUnit": 253.0,
+      "prompt": "Original isolated game sprite of a single historical late Han China asset circa 192 CE, genuine transparent RGB-alpha background around the entire asset including gaps, no sky, no scene surroundings, no floor beyond the base, no projected shadow outside footprint, no text, no characters, no inset. Text-only. Fixed parallel orthographic projection with camera directly south, 45 degrees down from horizontal, north up, front edges horizontal, symmetric top-front view as seen in a videogame. Northwest soft daylight. Realistic tiny-scale material details suitable for an AAA historical strategy map, crisp weathered historical masonry and timber craftsmanship. Standalone rectangular plinth visible at bottom; central ground point toward bottom. Entire footprint shown with margin. Single composition, highest native detail possible.\n\nSingle late Han irrigated farm compound. Rectangular crop plots green and muted golden with fine rows and flooded rice terraces, intricate earth bunds and small irrigation flows, miniature timber farm house and shed in back, a dirt path centered into the tile."
+    },
+    {
+      "file": "granary.webp",
+      "sha256": "eed39348084acd23ef89734b56c3c8eb49e69b386cfb206766b8ef1281514066",
+      "width": 2048,
+      "height": 1339,
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "anchorPx": [
+        1024,
+        1326
+      ],
+      "footprintMapUnits": 8,
+      "pixelsPerMapUnit": 253.0,
+      "prompt": "Original isolated game sprite of a single historical late Han China asset circa 192 CE, genuine transparent RGB-alpha background around the entire asset including gaps, no sky, no scene surroundings, no floor beyond the base, no projected shadow outside footprint, no text, no characters, no inset. Text-only. Fixed parallel orthographic projection with camera directly south, 45 degrees down from horizontal, north up, front edges horizontal, symmetric top-front view as seen in a videogame. Northwest soft daylight. Realistic tiny-scale material details suitable for an AAA historical strategy map, crisp weathered historical masonry and timber craftsmanship. Standalone rectangular plinth visible at bottom; central ground point toward bottom. Entire footprint shown with margin. Single composition, highest native detail possible.\n\nLate Han protected granary complex of two timber storage houses on raised stone piers, fine weathered beams and heavy tiled roofs, exterior ladders, paved yard and a small retaining wall on a tile."
+    },
+    {
+      "file": "houses.webp",
+      "sha256": "427c878303306d3fe933d63ad4bf44d861ab6a05026b95e85b838f69e1c2c627",
+      "width": 2048,
+      "height": 1372,
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "anchorPx": [
+        1024,
+        1359
+      ],
+      "footprintMapUnits": 8,
+      "pixelsPerMapUnit": 253.0,
+      "prompt": "Original isolated game sprite of a single historical late Han China asset circa 192 CE, genuine transparent RGB-alpha background around the entire asset including gaps, no sky, no scene surroundings, no floor beyond the base, no projected shadow outside footprint, no text, no characters, no inset. Text-only. Fixed parallel orthographic projection with camera directly south, 45 degrees down from horizontal, north up, front edges horizontal, symmetric top-front view as seen in a videogame. Northwest soft daylight. Realistic tiny-scale material details suitable for an AAA historical strategy map, crisp weathered historical masonry and timber craftsmanship. Standalone rectangular plinth visible at bottom; central ground point toward bottom. Entire footprint shown with margin. Single composition, highest native detail possible.\n\nA compact cluster of six authentic Han grey-tiled courtyard dwellings in contrasting subtle shapes, aged white walls and timber doors along a lane; real eaves and ridge lines, a well, two trees, tile plinth."
+    },
+    {
+      "file": "market.webp",
+      "sha256": "e02a6d4660f47760012fb8b46f403417cd625e1532ca6aca343122b1af24aebd",
+      "width": 2048,
+      "height": 1317,
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "anchorPx": [
+        1024,
+        1304
+      ],
+      "footprintMapUnits": 8,
+      "pixelsPerMapUnit": 253.0,
+      "prompt": "Original isolated game sprite of a single historical late Han China asset circa 192 CE, genuine transparent RGB-alpha background around the entire asset including gaps, no sky, no scene surroundings, no floor beyond the base, no projected shadow outside footprint, no text, no characters, no inset. Text-only. Fixed parallel orthographic projection with camera directly south, 45 degrees down from horizontal, north up, front edges horizontal, symmetric top-front view as seen in a videogame. Northwest soft daylight. Realistic tiny-scale material details suitable for an AAA historical strategy map, crisp weathered historical masonry and timber craftsmanship. Standalone rectangular plinth visible at bottom; central ground point toward bottom. Entire footprint shown with margin. Single composition, highest native detail possible.\n\nLate Han town market fragment as isolated game tile. Tightly built traditional tiled wooden shops, three alternating tan and faded rust linen awnings, bamboo stalls and crates of pottery and baskets, courtyard, handmade timber roof details, realistically packed street toward foreground."
+    },
+    {
+      "file": "mountain-pass.webp",
+      "sha256": "bdc5ddc070067279de125652c2e934cb10bc7f3bf13399b8b1e1e8b62c9b0adb",
+      "width": 2048,
+      "height": 1876,
+      "nativeSize": [
+        1305,
+        1205
+      ],
+      "anchorPx": [
+        1024,
+        1863
+      ],
+      "footprintMapUnits": 16,
+      "pixelsPerMapUnit": 126.5,
+      "prompt": "Original photoreal historical strategy-game ASSET SPRITE, late-Han China c. 192. No graphics reference, text-only. Single isolated fully cut-out asset, with genuine transparent alpha everywhere beyond its footprint including internal holes, no ground plane, no scenery, no cast shadow outside base, no backdrop, no typography, no watermark. Camera strictly orthographic, exactly 45 degrees downward from horizontal. North points to top screen, south main entrance faces directly toward camera at bottom center, east right and west left, parallel front-facing east-west walls run horizontally. Northwest daylight from upper left. Footprint is a tidy standalone square/rectangular tile base, fully in frame with small margins and its front edge near bottom. Highly detailed weathered physically plausible grey block masonry, realistic clay/carpentry, exceptionally crisp hand-painted photoreal videogame materials, regionally accurate ancient architecture. Entire sprite unobstructed, close crop and occupy most of image. Render at highest native resolution possible.\n\nHulao Pass. One isolated compact rectangular game tile of a strategic fortification completely bridging a real steep eroded cliff gorge, clusters of rough fractured asymmetric sandstone cliffs on either side, left and right grey brick walls embed into rock. Dominant double-tier authentic late Han gatehouse with ridge decorations and upturned tiled eaves, visible brick rows, crisp crenellations, little torch enclosures and a packed earthen track through the middle arch. North/south corridor straight up/down the sprite. No surrounding map or distant mountains."
+    },
+    {
+      "file": "nomad-camp.webp",
+      "sha256": "f2fe52dea4be8a774512f7c1bcb271a81bbfc0429968340c92534de4955de18c",
+      "width": 2048,
+      "height": 1532,
+      "nativeSize": [
+        1448,
+        1086
+      ],
+      "anchorPx": [
+        1024,
+        1519
+      ],
+      "footprintMapUnits": 21,
+      "pixelsPerMapUnit": 96.381,
+      "prompt": "Original photoreal historical strategy-game ASSET SPRITE, late-Han China c. 192. No graphics reference, text-only. Single isolated fully cut-out asset, with genuine transparent alpha everywhere beyond its footprint including internal holes, no ground plane, no scenery, no cast shadow outside base, no backdrop, no typography, no watermark. Camera strictly orthographic, exactly 45 degrees downward from horizontal. North points to top screen, south main entrance faces directly toward camera at bottom center, east right and west left, parallel front-facing east-west walls run horizontally. Northwest daylight from upper left. Footprint is a tidy standalone square/rectangular tile base, fully in frame with small margins and its front edge near bottom. Highly detailed weathered physically plausible grey block masonry, realistic clay/carpentry, exceptionally crisp hand-painted photoreal videogame materials, regionally accurate ancient architecture. Entire sprite unobstructed, close crop and occupy most of image. Render at highest native resolution possible.\n\nNorthern steppe late Han nomadic encampment game asset. Isolated rectangular complex on a short straw-grass ground tile, detailed layered cream felt round tents with rope ties, one large leader's tent and surrounding smaller yurts, weathered fenced horse enclosures and tack, clustered flags, no characters, modest clearings and natural dirt track toward bottom center. Strong architectural focus."
+    },
+    {
+      "file": "port.webp",
+      "sha256": "48a27be0661a3658d0ccfde54e230dfae9e209ec09af50c05e752f54feb514f2",
+      "width": 2048,
+      "height": 1310,
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "anchorPx": [
+        1024,
+        1297
+      ],
+      "footprintMapUnits": 9,
+      "pixelsPerMapUnit": 224.8889,
+      "prompt": "Original isolated game sprite of a single historical late Han China asset circa 192 CE, genuine transparent RGB-alpha background around the entire asset including gaps, no sky, no scene surroundings, no floor beyond the base, no projected shadow outside footprint, no text, no characters, no inset. Text-only. Fixed parallel orthographic projection with camera directly south, 45 degrees down from horizontal, north up, front edges horizontal, symmetric top-front view as seen in a videogame. Northwest soft daylight. Realistic tiny-scale material details suitable for an AAA historical strategy map, crisp weathered historical masonry and timber craftsmanship. Standalone rectangular plinth visible at bottom; central ground point toward bottom. Entire footprint shown with margin. Single composition, highest native detail possible.\n\nSmall fortified Han river trading harbor, a contained rectangle of river water with muted transparent green surface, stone terraces and market sheds on the north bank, several landing wharves reaching toward foreground, two ancient shallow-draft wooden cargo boats, hand-painted wet wood, no vessel outside base and all water stays in the tile."
+    },
+    {
+      "file": "shrine.webp",
+      "sha256": "6424c794801a93db235935aef77f9b334fdca2b5708f0f6d722df4e9c5b327a8",
+      "width": 2048,
+      "height": 1579,
+      "nativeSize": [
+        1536,
+        1024
+      ],
+      "anchorPx": [
+        1024,
+        1566
+      ],
+      "footprintMapUnits": 8,
+      "pixelsPerMapUnit": 253.0,
+      "prompt": "Original isolated game sprite of a single historical late Han China asset circa 192 CE, genuine transparent RGB-alpha background around the entire asset including gaps, no sky, no scene surroundings, no floor beyond the base, no projected shadow outside footprint, no text, no characters, no inset. Text-only. Fixed parallel orthographic projection with camera directly south, 45 degrees down from horizontal, north up, front edges horizontal, symmetric top-front view as seen in a videogame. Northwest soft daylight. Realistic tiny-scale material details suitable for an AAA historical strategy map, crisp weathered historical masonry and timber craftsmanship. Standalone rectangular plinth visible at bottom; central ground point toward bottom. Entire footprint shown with margin. Single composition, highest native detail possible.\n\nLate Han modest ancestral shrine on a shallow stepped stone platform, intricately carved wood pillars, graceful charcoal clay overhanging tiled roof, courtyard with one pine, bronze incense vessel and low enclosure walls, rectangular tile."
+    },
+    {
+      "file": "town-fort.webp",
+      "sha256": "87f0fea836ce6bb6ccab60ff5f54a5ab549c0536356b1d06efce0902b2bea550",
+      "width": 2048,
+      "height": 1923,
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "anchorPx": [
+        1024,
+        1910
+      ],
+      "footprintMapUnits": 12,
+      "pixelsPerMapUnit": 168.6667,
+      "prompt": "Photoreal game sprite. Late Han China. True transparent alpha beyond asset, no terrain beyond rectangular tile base, no borders or background, no cast shadow beyond the base. Camera orthographic exactly 45 degrees downward, from the south with north up and front wall horizontal. Soft northwest light. Text-only input and no words in picture. Authentic deep eaves, clay tile and weathered brick, premium texture density. Entire tile in frame.\n\nSmall fortified permanent county garrison (鎭). Square low rammed-earth and stone wall circuit, one understated two-eave south gate, 9 clay tile houses and two long timber military buildings, training yard, straight packed clay road. Permanent settlement rather than field tents."
+    },
+    {
+      "file": "watchtower.webp",
+      "sha256": "ed5c14acb77acb301bec60df3a539578c7ee9a74064dfc69ee7db0fee4803fb9",
+      "width": 1768,
+      "height": 2048,
+      "nativeSize": [
+        1219,
+        1290
+      ],
+      "anchorPx": [
+        884,
+        2035
+      ],
+      "footprintMapUnits": 8,
+      "pixelsPerMapUnit": 218.0,
+      "prompt": "Original isolated game sprite of a single historical late Han China asset circa 192 CE, genuine transparent RGB-alpha background around the entire asset including gaps, no sky, no scene surroundings, no floor beyond the base, no projected shadow outside footprint, no text, no characters, no inset. Text-only. Fixed parallel orthographic projection with camera directly south, 45 degrees down from horizontal, north up, front edges horizontal, symmetric top-front view as seen in a videogame. Northwest soft daylight. Realistic tiny-scale material details suitable for an AAA historical strategy map, crisp weathered historical masonry and timber craftsmanship. Standalone rectangular plinth visible at bottom; central ground point toward bottom. Entire footprint shown with margin. Single composition, highest native detail possible.\n\nSingle elegant late Han border watchtower. Tall tapered stone base with visible layers, raised timber watch platform, multi-hip curved tiled eaves, balcony railings and ladders, on isolated square patch with gravel courtyard and low palisade. No trees hiding the silhouette."
+    },
+    {
+      "file": "water-fort.webp",
+      "sha256": "f7fcf2e6b01aad6bd2ea21d79b638d67875e3701ec24c4e6625b1e98c226329a",
+      "width": 2048,
+      "height": 1861,
+      "nativeSize": [
+        1312,
+        1199
+      ],
+      "anchorPx": [
+        1024,
+        1848
+      ],
+      "footprintMapUnits": 12,
+      "pixelsPerMapUnit": 168.6667,
+      "prompt": "Original photoreal historical strategy-game ASSET SPRITE, late-Han China c. 192. No graphics reference, text-only. Single isolated fully cut-out asset, with genuine transparent alpha everywhere beyond its footprint including internal holes, no ground plane, no scenery, no cast shadow outside base, no backdrop, no typography, no watermark. Camera strictly orthographic, exactly 45 degrees downward from horizontal. North points to top screen, south main entrance faces directly toward camera at bottom center, east right and west left, parallel front-facing east-west walls run horizontally. Northwest daylight from upper left. Footprint is a tidy standalone square/rectangular tile base, fully in frame with small margins and its front edge near bottom. Highly detailed weathered physically plausible grey block masonry, realistic clay/carpentry, exceptionally crisp hand-painted photoreal videogame materials, regionally accurate ancient architecture. Entire sprite unobstructed, close crop and occupy most of image. Render at highest native resolution possible.\n\nLate Han water fort. An isolated square strategic tile showing a small military fort at the edge of a contained shallow-water inlet, with stone banks, two stacked eave watchtowers, wooden palisades and earthwork, twin wooden docks and one simple wooden patrol boat. The water is entirely contained in part of the asset footprint with crisp alpha beyond the tile. Front access faces bottom center."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "note": "NOAA NCEI ETOPO 2022 v1, 60 arc-second ice surface elevation (CC0-1.0).",
+  "script": "tools/map-data/build-heightmap.py",
+  "sources": [
+    {
+      "url": "https://www.ngdc.noaa.gov/mgg/global/relief/ETOPO2022/data/60s/60s_surface_elev_gtif/ETOPO_2022_v1_60s_N90W180_surface.tif",
+      "doi": "10.25921/fd45-gt74",
+      "sha256": "9d27d4b8ea8e76977e2988bca667d7c8fa68b927355feffcddd6b4875a7fd08e"
+    },
+    {
+      "file": "resources/map/integration.json",
+      "sha256": "d108fcf1db9e83dfcf7528dd620f445d4c32012a2510359b3625b16c8927144f"
+    }
+  ],
+  "bounds": [
+    94,
+    17,
+    132.57142857142856,
+    44
+  ],
+  "crs": "EPSG:4326",
+  "verticalDatum": "EGM2008 (EPSG:3855)",
+  "grid": {
+    "width": 500,
+    "height": 350,
+    "viewBoxUnitsPerPixel": 2
+  },
+  "resampling": "average",
+  "encoding": {
+    "format": "grayscale PNG, 16-bit unsigned",
+    "order": "north to south, west to east",
+    "scaleMeters": 1,
+    "offsetMeters": -32768
+  },
+  "output": {
+    "file": "apps/web/src/main/heightmap.png",
+    "sha256": "bbf3372643d93d5602baa284bbc3b8987a4f2808d705bd1e7123bf9852cc03b9"
+  }
+}

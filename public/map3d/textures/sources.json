@@ -1,0 +1,104 @@
+{
+  "tool": "Codex built-in image generation",
+  "inputs": "text prompts only",
+  "format": "1024x1024 lossless WebP, sRGB albedo",
+  "processing": "Lanczos resize when needed and 24-pixel periodic edge blending",
+  "textures": [
+    {
+      "file": "cloth.webp",
+      "prompt": "Single square seamless repeatable game material albedo texture, 1024 by 1024. Orthographic directly perpendicular to the material, fill edge to edge at uniform scale, completely flat diffuse lighting, no shading or highlights, no perspective, no objects, no cast shadows, no borders, no text. Opposite edges must tile continuously on both axes. Muted natural tones and subtle detailed original material for a late-Han historical strategy map. Material: muted sandy woven canvas, fine even warp and weft.",
+      "sourceSha256": "98aedc7214e3bc6cbe7c6a74a6370dba3628a4daae755905f3308bc651de615c",
+      "sha256": "72504ee10cc860d44246ea5ceb71aca50176827ad0e1a698afe75c86a1be55f5"
+    },
+    {
+      "file": "crop.webp",
+      "prompt": "Single square seamless repeatable game material albedo texture, 1024 by 1024. Orthographic directly perpendicular to the material, fill edge to edge at uniform scale, completely flat diffuse lighting, no shading or highlights, no perspective, no objects, no cast shadows, no borders, no text. Opposite edges must tile continuously on both axes. Muted natural tones and subtle detailed original material for a late-Han historical strategy map. Material: dense young olive green rice crop leaves and stems across entire tile, top down.",
+      "sourceSha256": "bc8be080a90e7c0c90dac3704d96d3d5ec4a06105680718c54995d327b5d098e",
+      "sha256": "c037790341473f088080b5b02cc315eb5222ccde67f3c43c435b887c12cf15e9"
+    },
+    {
+      "file": "dirt.webp",
+      "prompt": "Single square seamless repeatable game material albedo texture, 1024 by 1024. Orthographic directly perpendicular to the material, fill edge to edge at uniform scale, completely flat diffuse lighting, no shading or highlights, no perspective, no objects, no cast shadows, no borders, no text. Opposite edges must tile continuously on both axes. Muted natural tones and subtle detailed original material for a late-Han historical strategy map. Material: compact warm brown path soil with sparse tiny gravel.",
+      "sourceSha256": "83aa9bc9aeb5b36ec4316bd995f31994f51cbea5cca7524fe28dceed05b6d4d7",
+      "sha256": "d05fac013cc99f90f388051fccf50b727a0c83716be77f850054525cb10cdb31"
+    },
+    {
+      "file": "earth.webp",
+      "prompt": "Single square seamless repeatable game material albedo texture, 1024 by 1024. Orthographic directly perpendicular to the material, fill edge to edge at uniform scale, completely flat diffuse lighting, no shading or highlights, no perspective, no objects, no cast shadows, no borders, no text. Opposite edges must tile continuously on both axes. Muted natural tones and subtle detailed original material for a late-Han historical strategy map. Material: warm ochre Han rammed earth wall with fine horizontal packed strata.",
+      "sourceSha256": "51827d69b85171cbb769bfb3a760afbd3cd5e16bd3a7821acfec051da0e5d797",
+      "sha256": "77f161f15e579ff5d8ba55992e7862d0c4af0ee0bcc631d590da642810ed5857"
+    },
+    {
+      "file": "field-dry.webp",
+      "prompt": "Single square seamless repeatable game material albedo texture, 1024 by 1024. Orthographic directly perpendicular to the material, fill edge to edge at uniform scale, completely flat diffuse lighting, no shading or highlights, no perspective, no objects, no cast shadows, no borders, no text. Opposite edges must tile continuously on both axes. Muted natural tones and subtle detailed original material for a late-Han historical strategy map. Material: dry tilled brown field with regularly spaced straight furrows across image.",
+      "sourceSha256": "3564b09109558abed94643d7fa0b89085995c2382df8a1a98a57947c7abe7b48",
+      "sha256": "ed9a94e54053225f70767b39bd0e725b3762500760cc69d60eef0bc1ba973198"
+    },
+    {
+      "file": "field-wet.webp",
+      "prompt": "Single square seamless repeatable game material albedo texture, 1024 by 1024. Orthographic directly perpendicular to the material, fill edge to edge at uniform scale, completely flat diffuse lighting, no shading or highlights, no perspective, no objects, no cast shadows, no borders, no text. Opposite edges must tile continuously on both axes. Muted natural tones and subtle detailed original material for a late-Han historical strategy map. Material: water-filled rice paddy soil and short repeating rice rows, muddy shallow olive water flat albedo.",
+      "sourceSha256": "c776f8b8e37ffe932b1d717de47934738de5c1bf7932b1cf21378da4cbe214fe",
+      "sha256": "707781be8a1201c21641cb18deaee9b8c36201522bfaab1a9c525ea69e81e2ba"
+    },
+    {
+      "file": "forest-floor.webp",
+      "prompt": "Single square seamless repeatable game material albedo texture, 1024 by 1024. Orthographic directly perpendicular to the material, fill edge to edge at uniform scale, completely flat diffuse lighting, no shading or highlights, no perspective, no objects, no cast shadows, no borders, no text. Opposite edges must tile continuously on both axes. Muted natural tones and subtle detailed original material for a late-Han historical strategy map. Material: subdued dark brown forest floor with small fallen matte leaves, humus and sparse pine litter.",
+      "sourceSha256": "951acba131c4b174f71b1009d0c03a89962e06b026cd1c936e69a003ba215b99",
+      "sha256": "f579d56ab216f9ff499b989aa99ce9b89430f591ff4e5170d23be28e7e9fa117"
+    },
+    {
+      "file": "grass.webp",
+      "prompt": "Single square seamless repeatable game material albedo texture, 1024 by 1024. Orthographic directly perpendicular to the material, fill edge to edge at uniform scale, completely flat diffuse lighting, no shading or highlights, no perspective, no objects, no cast shadows, no borders, no text. Opposite edges must tile continuously on both axes. Muted natural tones and subtle detailed original material for a late-Han historical strategy map. Material: fine short mixed olive green meadow grass flat overhead.",
+      "sourceSha256": "64d43079c13815a03623a4dcf3029de9637710a380aef0e6dde7cfb304e5ff5e",
+      "sha256": "dc32abd7a166a95b82a8cc0dcd915ed7fd1eb1ae0e7bcdd929986365f4e82558"
+    },
+    {
+      "file": "loess.webp",
+      "prompt": "Single square seamless repeatable game material albedo texture, 1024 by 1024. Orthographic directly perpendicular to the material, fill edge to edge at uniform scale, completely flat diffuse lighting, no shading or highlights, no perspective, no objects, no cast shadows, no borders, no text. Opposite edges must tile continuously on both axes. Muted natural tones and subtle detailed original material for a late-Han historical strategy map. Material: matte fine ochre yellow loess silt with faint evenly distributed mottling.",
+      "sourceSha256": "83b5b3898afddf6af6a7f0c24d8fe6cedd3645334a41584263fb865492ab91ae",
+      "sha256": "93917fcf3bb38a5cc90494c26c1eb7acc229155ab7765ec4b25fbbc2769cd35d"
+    },
+    {
+      "file": "plaster.webp",
+      "prompt": "Single square seamless repeatable game material albedo texture, 1024 by 1024. Orthographic directly perpendicular to the material, fill edge to edge at uniform scale, completely flat diffuse lighting, no shading or highlights, no perspective, no objects, no cast shadows, no borders, no text. Opposite edges must tile continuously on both axes. Muted natural tones and subtle detailed original material for a late-Han historical strategy map. Material: matte warm off-white lime plaster with subtle mottling.",
+      "sourceSha256": "ec8f755d9682dba4980c1195f26d3ed51fc51e7ad84b886258ceb56800c9683b",
+      "sha256": "25a65d388a970add832715b1629a757c88c8fb2175d666a9feebaf2d3333e6af"
+    },
+    {
+      "file": "rock.webp",
+      "prompt": "Single square seamless repeatable game material albedo texture, 1024 by 1024. Orthographic directly perpendicular to the material, fill edge to edge at uniform scale, completely flat diffuse lighting, no shading or highlights, no perspective, no objects, no cast shadows, no borders, no text. Opposite edges must tile continuously on both axes. Muted natural tones and subtle detailed original material for a late-Han historical strategy map. Material: grey-brown eroded exposed rock, distributed fine strata and fissures.",
+      "sourceSha256": "7197b503d28106d03df76476281c93ca65c2d7441a71d35071bf053e0b0a94e7",
+      "sha256": "954e926f70d1eb29621264dffcb8657c9c136d08632e2209e05a3e691e30ddc5"
+    },
+    {
+      "file": "sand.webp",
+      "prompt": "Single square seamless repeatable game material albedo texture, 1024 by 1024. Orthographic directly perpendicular to the material, fill edge to edge at uniform scale, completely flat diffuse lighting, no shading or highlights, no perspective, no objects, no cast shadows, no borders, no text. Opposite edges must tile continuously on both axes. Muted natural tones and subtle detailed original material for a late-Han historical strategy map. Material: matte pale warm beige fine-grained dry sand with low contrast ripples.",
+      "sourceSha256": "7dd908fe8bd051affd7fe0aabf29e493e09fae457201f9f44eddc89fc28a6426",
+      "sha256": "36d75a1cd17c8774fa6afa3219f3af2fecf690857bd590f7ab895ebe51170c1a"
+    },
+    {
+      "file": "snow.webp",
+      "prompt": "Single square seamless repeatable game material albedo texture, 1024 by 1024. Orthographic directly perpendicular to the material, fill edge to edge at uniform scale, completely flat diffuse lighting, no shading or highlights, no perspective, no objects, no cast shadows, no borders, no text. Opposite edges must tile continuously on both axes. Muted natural tones and subtle detailed original material for a late-Han historical strategy map. Material: slightly cool soft off-white granular settled snow.",
+      "sourceSha256": "5b8d0dc922501cbfcb24e557e06393685e6494237aba978d92a7788ff51adc15",
+      "sha256": "7fece075ce2aedd0eedec9117faf6c04edf61fac358e3e7714f8e10b058f1391"
+    },
+    {
+      "file": "stone.webp",
+      "prompt": "Single square seamless repeatable game material albedo texture, 1024 by 1024. Orthographic directly perpendicular to the material, fill edge to edge at uniform scale, completely flat diffuse lighting, no shading or highlights, no perspective, no objects, no cast shadows, no borders, no text. Opposite edges must tile continuously on both axes. Muted natural tones and subtle detailed original material for a late-Han historical strategy map. Material: aged grey rectangular stone wall courses with shallow mortar, squared hand-cut blocks.",
+      "sourceSha256": "29f18248074ed7345448462bda69b44349202ee625fc4c58d36bc470e0078fab",
+      "sha256": "ed3a805d537d399eeedc827d42e076958537b91a885d5a2cacd47a77e26ce8b6"
+    },
+    {
+      "file": "tile.webp",
+      "prompt": "Single square seamless repeatable game material albedo texture, 1024 by 1024. Orthographic directly perpendicular to the material, fill edge to edge at uniform scale, completely flat diffuse lighting, no shading or highlights, no perspective, no objects, no cast shadows, no borders, no text. Opposite edges must tile continuously on both axes. Muted natural tones and subtle detailed original material for a late-Han historical strategy map. Material: weathered dark charcoal fired clay overlapping Han-era barrel-and-pan roof tiles, clean parallel columns.",
+      "sourceSha256": "f93485c43115b8cee3d56d1d74503a27b46b33d4706636dfc0f2a392a3782f10",
+      "sha256": "d0a1f02b53d54e6a6f987e8057d4f3a7de46c4d2924d67968cdf170416f7fb3b"
+    },
+    {
+      "file": "wood.webp",
+      "prompt": "Single square seamless repeatable game material albedo texture, 1024 by 1024. Orthographic directly perpendicular to the material, fill edge to edge at uniform scale, completely flat diffuse lighting, no shading or highlights, no perspective, no objects, no cast shadows, no borders, no text. Opposite edges must tile continuously on both axes. Muted natural tones and subtle detailed original material for a late-Han historical strategy map. Material: dark warm aged timber vertical grain and narrow vertical planks.",
+      "sourceSha256": "d6a9af89d3b3ebc0b8f3a2974a6e24ebfc13b22357189015f400b656a141251e",
+      "sha256": "7773633405ec939a6714e2f546d389474b6c9b39d7ff399b5890eee3a03dd26c"
+    }
+  ]
+}

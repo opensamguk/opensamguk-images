@@ -4,18 +4,18 @@
   "assets": [
     {
       "file": "pass-lod0.glb",
-      "triangles": 2528,
-      "sha256": "4c87585bb51e6701e9e68b75b45595e75dae49e5488aa1b60d26aa13b2204e61"
+      "triangles": 3784,
+      "sha256": "efecc32b5b5b5d255b99df0f31bdc0f7e65b330f56d1aaf5c88720183f9f2f20"
     },
     {
       "file": "pass-lod1.glb",
-      "triangles": 572,
-      "sha256": "52cd06dcac8d65e8833b87211096bea79152fbb5582986b3045047ecab567421"
+      "triangles": 868,
+      "sha256": "2bedfb41ceff84d80d617861463eacd4041ae6821d4cbc86c22e1d067d4e2951"
     },
     {
       "file": "pass-lod2.glb",
       "triangles": 118,
-      "sha256": "a829369d79a01a7f6d7fa7925835dad286372ffb3e607bef4639855e5e56047b"
+      "sha256": "26ea43fd6473489ab3100c0af4d46e4459207315a8149e0649532660f48b61f1"
     },
     {
       "file": "port-lod0.glb",
